@@ -13,7 +13,7 @@
   <channel site="orangetv.orange.es" site_id="1098" lang="es" xmltv_id="">M Liga de Campeones 12</channel>
   <channel site="orangetv.orange.es" site_id="1099" lang="es" xmltv_id="">M Liga de Campeones 13</channel>
   <channel site="orangetv.orange.es" site_id="2209" lang="es" xmltv_id="">MMA TV</channel>
-  <channel site="orangetv.orange.es" site_id="11031" lang="es" xmltv_id="">GOL</channel>
+  <channel site="orangetv.orange.es" site_id="11031" lang="es" xmltv_id="">Replay</channel>
   <channel site="orangetv.orange.es" site_id="11036" lang="es" xmltv_id="">M Liga de Campeones 9</channel>
   <channel site="orangetv.orange.es" site_id="11097" lang="es" xmltv_id="">RunTime Clásico</channel>
   <channel site="orangetv.orange.es" site_id="11102" lang="es" xmltv_id="">Vivir con gatos</channel>
@@ -96,6 +96,10 @@
   <channel site="orangetv.orange.es" site_id="11255" lang="es" xmltv_id="">LevanteTV</channel>
   <channel site="orangetv.orange.es" site_id="11256" lang="es" xmltv_id="">987 Leon</channel>
   <channel site="orangetv.orange.es" site_id="11257" lang="es" xmltv_id="">CantabriaTV</channel>
+  <channel site="orangetv.orange.es" site_id="11258" lang="es" xmltv_id="">Vinx</channel>
+  <channel site="orangetv.orange.es" site_id="11262" lang="es" xmltv_id="">Canal Málaga</channel>
+  <channel site="orangetv.orange.es" site_id="11264" lang="es" xmltv_id="">Televitoria</channel>
+  <channel site="orangetv.orange.es" site_id="11265" lang="es" xmltv_id="">A8</channel>
   <channel site="orangetv.orange.es" site_id="11270" lang="es" xmltv_id="">DAZN Baloncesto 3</channel>
   <channel site="orangetv.orange.es" site_id="11271" lang="es" xmltv_id="">Rugby Challenge Spain</channel>
   <channel site="orangetv.orange.es" site_id="11273" lang="es" xmltv_id="">Qello concerts</channel>
@@ -194,13 +198,13 @@
   <channel site="orangetv.orange.es" site_id="11095" lang="es" xmltv_id="RuntimeCrimen.es@SD">Runtime Crimen</channel>
   <channel site="orangetv.orange.es" site_id="11096" lang="es" xmltv_id="RuntimeRomance.es@SD">Runtime Romance</channel>
   <channel site="orangetv.orange.es" site_id="11093" lang="es" xmltv_id="RuntimeSeries.es@SD">Runtime Series</channel>
-  <channel site="orangetv.orange.es" site_id="11091" lang="es" xmltv_id="RuntimeThriller.es@SD">Runtime Thriller/Terror</channel>
+  <channel site="orangetv.orange.es" site_id="11091" lang="es" xmltv_id="RuntimeThriller.es@SD">Runtime Halloween</channel>
   <channel site="orangetv.orange.es" site_id="11045" lang="es" xmltv_id="Selekt.es@SD">AMC Selekt TV</channel>
   <channel site="orangetv.orange.es" site_id="11119" lang="es" xmltv_id="SolMusica.es@SD">Sol Música</channel>
   <channel site="orangetv.orange.es" site_id="11029" lang="es" xmltv_id="Somos.es@SD">Somos</channel>
   <channel site="orangetv.orange.es" site_id="11001" lang="es" xmltv_id="StarChannelSpain.es@SD">STAR Channel</channel>
   <channel site="orangetv.orange.es" site_id="11052" lang="es" xmltv_id="SundanceTV.es@SD">Sundance TV</channel>
-  <channel site="orangetv.orange.es" site_id="11004" lang="es" xmltv_id="Syfy.es@SD">SYFY</channel>
+  <channel site="orangetv.orange.es" site_id="11004" lang="es" xmltv_id="Syfy.es@SD">SciFi</channel>
   <channel site="orangetv.orange.es" site_id="11012" lang="es" xmltv_id="TCM.es@SD">TCM</channel>
   <channel site="orangetv.orange.es" site_id="1013" lang="es" xmltv_id="Telecinco.es@SD">Telecinco HD</channel>
   <channel site="orangetv.orange.es" site_id="1063" lang="es" xmltv_id="Teledeporte.es@SD">TDP HD</channel>
